@@ -365,7 +365,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/pushnoti/pushwoosh-ios-sdk-master/Framework",
+					"$(PROJECT_DIR)/pushnoti",
 					"/Users/chiunti/Downloads/pushwoosh-ios-sdk-master/Framework",
 					"$(PROJECT_DIR)/pushnoti",
 				);
@@ -384,7 +384,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/pushnoti/pushwoosh-ios-sdk-master/Framework",
+					"$(PROJECT_DIR)/pushnoti",
 					"/Users/chiunti/Downloads/pushwoosh-ios-sdk-master/Framework",
 					"$(PROJECT_DIR)/pushnoti",
 				);
