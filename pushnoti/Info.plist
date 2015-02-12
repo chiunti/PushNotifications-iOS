@@ -2,10 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Pushwoosh_APPID</key>
-	<string>DAC8A-127B1</string>
-	<key>Pushwoosh_AUTO</key>
-	<true/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -47,5 +43,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>Pushwoosh_AUTO</key>
+	<true/>
+	<key>Pushwoosh_APPID</key>
+	<string>DAC8A-127B1</string>
 </dict>
 </plist>
